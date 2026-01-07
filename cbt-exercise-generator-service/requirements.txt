@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+stable-baselines3
+torch
+transformers
+google-cloud-firestore
+dotenv
+google.generativeai
+firebase_admin
+pydantic[email]
