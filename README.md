@@ -31,8 +31,8 @@ The system follows a modular and scalable architecture consisting of multiple AI
    - Securely stores anonymized interaction data.
    - Supports emotion trend analysis and adaptive learning.
 
-📌 *Architectural Diagram:*  
-(Add system architecture image here or link it from a `/docs` folder)
+<img width="585" height="718" alt="image" src="https://github.com/user-attachments/assets/8b7afcd1-d12c-4f5c-bbf7-43d9d21f2c8d" />
+
 
 ---
 
