@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+Pillow
+pydantic
+# Video Analysis (Keras/TensorFlow)
+tensorflow
+keras>=2.12.0
+opencv-python
+h5py
+# Image Analysis (YOLO)
+ultralytics
