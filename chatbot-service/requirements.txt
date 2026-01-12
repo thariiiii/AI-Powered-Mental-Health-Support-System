@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pyjwt
+passlib[bcrypt]
+httpx
+python-dotenv
+python-multipart
+pydantic_settings
+librosa
+numpy
+scikit-learn
+tensorflow
+resampy
+neattext
